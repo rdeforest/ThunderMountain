@@ -1,0 +1,187 @@
+---
+# Thunder Mountain Campaign Data
+version: "1.0.0"
+created: "2025-06-03T22:00:00Z"
+campaign_type: "d_and_d_5e_2024"
+description: "Campaign-specific data and cross-references for Thunder Mountain campaign"
+
+# === SEKRIT SQUIRREL STUFF WARNING ===
+# Players: Thunder, Kyle, Sarah - DO NOT READ BELOW THIS LINE!
+# This contains GM-only information including plot secrets, NPC motivations,
+# and future story developments. Reading this will spoil your own campaign!
+# === SEKRIT SQUIRREL STUFF WARNING ===
+
+cross_references:
+  clodforest_contexts:
+    gm_domain: "https://github.com/rdeforest/ClodForest/state/contexts/domains/game-master.yaml"
+    project_context: "https://github.com/rdeforest/ClodForest/state/contexts/projects/thunder-mountain/"
+    collaboration_patterns: "https://github.com/rdeforest/ClodForest/state/contexts/core/"
+    
+  thundermountain_materials:
+    campaign_docs: "./docs/"
+    session_planning: "./docs/session-0-plan.md"
+    equipment_strategy: "./docs/shopping-list.md"
+    player_resources: "./player-resources/"
+
+campaign_identity:
+  name: "Thunder Mountain"
+  theme: "Little Game, Big World"
+  concept: "Intimate 6-session story set against immense, scrollable world"
+  tone: "Light, comedic, story-heavy with tactical combat support"
+  inspiration: "Childhood awe at enormous ship scale"
+
+player_roster:
+  thunder:
+    real_name: "Robert's niece"
+    experience_level: "completely_new_to_dnd"
+    professional_background: "team lead at tech company, former real estate agent"
+    personality_traits: ["highly practical", "believes in paying for quality"]
+    campaign_role: "primary new player focus"
+    special_considerations: "first D&D experience must be exceptional"
+    
+  kyle:
+    real_name: "Thunder's boyfriend"
+    experience_level: "has_prior_dnd_experience"
+    professional_background: "police officer"
+    personality_traits: ["practical discipline"]
+    campaign_role: "experienced player support for Thunder"
+    relationship_dynamics: "supportive partner to primary new player"
+    
+  sarah:
+    real_name: "friend"
+    experience_level: "has_prior_dnd_experience"
+    background_knowledge: "unknown depth/versions"
+    campaign_role: "additional experienced player support"
+    assessment_needed: "determine experience level and play style during Session 0"
+
+campaign_structure:
+  session_count: 6
+  session_length: "3 hours gameplay + 30min padding each end"
+  session_0_duration: "4 hours total"
+  setting: "classic WotC Forgotten Realms"
+  opening_trope: "only table left seats four strangers (mysterious fourth chair)"
+  surprise_element: "subverted species stereotypes"
+
+knowledge_tracking_framework:
+  pc_information_state:
+    thunder_character:
+      known_secrets: []
+      witnessed_events: []
+      npc_relationships: []
+      plot_revelations: []
+      
+    kyle_character:
+      known_secrets: []
+      witnessed_events: []
+      npc_relationships: []
+      plot_revelations: []
+      
+    sarah_character:
+      known_secrets: []
+      witnessed_events: []
+      npc_relationships: []
+      plot_revelations: []
+      
+  npc_awareness_matrix:
+    # Format: npc_name -> {knows_about: [character_secrets], aware_of: [character_actions]}
+    tavern_keeper:
+      knows_about: []
+      aware_of: []
+      
+    mysterious_fourth_patron:
+      knows_about: []
+      aware_of: []
+      
+  secret_information_vault:
+    # GM-only plot secrets and reveals
+    campaign_secrets: []
+    npc_motivations: []
+    future_plot_threads: []
+    world_building_secrets: []
+
+session_progression:
+  session_0:
+    status: "planned"
+    focus: "character creation, safety tools, expectations"
+    location: "Thunder & Kyle's place"
+    equipment_decisions: "space assessment -> projector vs battle mat"
+    
+  session_1:
+    status: "outlined"
+    opening: "tavern scene with mysterious fourth chair"
+    goal: "party formation and first adventure hook"
+    
+  sessions_2_through_6:
+    status: "to_be_planned"
+    depends_on: "character choices and Session 1 direction"
+
+technical_setup:
+  space_assessment_results:
+    # To be filled during Session 0
+    table_size: "TBD"
+    lighting_conditions: "TBD"
+    projector_viability: "TBD"
+    dog_management_strategy: "TBD"
+    
+  equipment_deployment:
+    wemax_projector: "Session 1 success reward (~$400)"
+    foundry_vtt: "local hosting for projector casting"
+    physical_backup: "24x36 battle mat for space constraints"
+    
+  audio_environment:
+    ambient_playlists: ["tavern", "forest_day", "forest_night", "combat", "mystery"]
+    equipment: "laptop audio or portable speaker"
+    
+gm_confidence_tracking:
+  preparation_elements:
+    books_acquired: false
+    equipment_organized: false
+    session_0_agenda: true
+    safety_tools_prepared: true
+    
+  confidence_boosters_deployed:
+    wyrmwood_screen: false
+    professional_dice: false
+    quality_reference_materials: false
+    
+  robert_gm_development:
+    previous_experience: "2 Pathfinder 1e campaigns (handed off due to overwhelm)"
+    time_since_last_gm: "years"
+    current_confidence_level: "building through preparation"
+    support_systems: "Claude collaboration, equipment investment"
+
+collaboration_session_notes:
+  # Record of Claude-Robert GM prep sessions
+  initial_planning_session:
+    date: "2025-06-03"
+    topics: ["campaign concept", "player assessment", "equipment strategy", "safety tools"]
+    outcomes: ["comprehensive documentation", "confidence building", "technical setup plan"]
+    
+  # Future session records will be added here
+  
+claude_gm_support_patterns:
+  # How Claude helps Robert with GMing
+  confidence_building: "equipment psychology, preparation thoroughness"
+  technique_reminders: "advanced GM methods, player psychology"
+  improvisation_backup: "real-time consultation during sessions"
+  post_session_analysis: "what worked, improvements for next time"
+
+campaign_evolution_tracking:
+  # How the campaign develops over time
+  player_engagement_indicators: []
+  successful_techniques: []
+  areas_for_improvement: []
+  unexpected_player_directions: []
+  
+world_building_development:
+  # Campaign-specific world details
+  locations_established: []
+  npcs_introduced: []
+  plot_threads_active: []
+  player_backstory_integration: []
+
+future_campaign_potential:
+  sequel_hooks: []
+  world_expansion_opportunities: []
+  character_continuation_possibilities: []
+  setting_reuse_potential: []
