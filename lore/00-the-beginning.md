@@ -49,19 +49,20 @@
 - Will dispatch adventurers if Smol is in real danger (built-in rescue option)
 - Parents will panic when they learn about the cave expedition
 
-## The Songbird's Family (name TBD)
-- Human nobility who believe he's their biological son
-- Only The Songbird knows about the switch at birth
-- Don't mind him wandering as long as he doesn't tarnish the family name
-- Send letters every two weeks (sometimes with money)
-- Will scry if he doesn't respond promptly enough
-
 ## Smol Bean's Military Background
 - Served in local militia around 1489 (claiming to be a halfling)
 - Dealt with minor threats: goblin "raids," wolves, bandits
 - Main frustration: couldn't see over other casters for line of sight
 - No specific trauma (keeping it light)
 - Left angrier due to bureaucratic frustration and height jokes
+
+## The Songbird's Family (name TBD)
+- Family name unspecified for now. Kyle can pick one if he wants or I'll pick one if they get involved in the story before Kyle picks one
+- Human nobility who believe he's their biological son
+- Only The Songbird knows about the switch at birth
+- They don't mind him wandering as long as he doesn't tarnish the family name
+- They send him letters every two weeks (sometimes with money)
+- They will scry him if he doesn't respond promptly enough and would probably send mercenaries to rescue him if he needed it or to try to drag him home against his will if they thought it in the best interest of the family.
 
 ## Grista Kattelecopp
 - Proprietor of The Sleeping Giant Taproom
