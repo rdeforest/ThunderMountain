@@ -2,15 +2,19 @@
 
 ## Quick Access During Play
 - **[Quick Reference](quick-reference.md)** - One-page summary for active play
+- **[Console Messages](console-messages.md)** - All console displays ready to read
+- **[Exit Redesign](exit-redesign.md)** - Console-controlled exits with current statuses
 - **[Triggers](triggers.md)** - When things happen and what they cause
+- **[Food Tracker](food-tracker.md)** - Exhaustion timeline and food sources
 
 ## Encounters (In Likely Order)
 1. **[Primus-3R](encounter-Primus-3R.md)** - Crystal Garden & getting second crystal
 2. **[Anvil/Forge](anvil.md)** - Enhancing the trumpet
-3. **Choose Your Exit:**
-   - **[Bulette](encounter-bulette.md)** - Main entrance with angry mother
-   - **[Maintenance](encounter-maint.md)** - Vertical shaft with cave fishers
-   - **[Echo Gallery](encounter-gallery.md)** - Sound puzzles and mephits
+3. **Choose Your Exit:** (Console shows all options)
+   - **[Exit 1a]** - BLOCKED by landslide (owlbear territory beyond)
+   - **[Exit 1b - Bulette](encounter-bulette.md)** - CONTESTED (modrons fighting)
+   - **[Exit 2 - Maintenance](encounter-maint.md)** - OBSTRUCTED (cave fishers)
+   - **[Exit 3 - Resonance Bay](encounter-gallery-redesign.md)** - DEGRADED (mephits)
 
 ## Special Mechanics
 - **[Resonance](resonance.md)** - Carl & Trumpet interactions
@@ -56,8 +60,11 @@
 - Environmental advantages appear
 
 ## Important Reminders
+- Day 3 without food - exhaustion starts tomorrow for low CON characters
+- Console controls all exits and shows threat assessments
 - Track which crystal they choose (affects forge personality forever)
 - First trumpet reroll is dramatic moment
 - Carl resonance kicks in after enhancement
-- Owlbears are friendly (they healed one)
-- This is discovery, not completion
+- Facility considers entire volcanic cone its territory
+- Red boundary lights, blue guidance traces
+- This is discovery, not completion - sanctuary building
