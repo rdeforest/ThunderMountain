@@ -1,5 +1,5 @@
 # Sylara Moonsmith - Jeweler (SECRET: Silver Dragon)
-**Public Role**: Silversmith/Jeweler | **True Form**: [Young Adult Silver Dragon](https://www.dndbeyond.com/monsters/17114-adult-silver-dragon) 🕮
+**Public Role**: Silversmith/Jeweler | **True Form**: [Young Adult Silver Dragon](https://www.dndbeyond.com/monsters/5194876-adult-silver-dragon) 🕮
 
 ## Human Form
 | Aspect | Details |
@@ -24,4 +24,4 @@ Casually bumps into party: "That was quite a light show yesterday.
 Professional interest - did it affect any magical metals?"
 
 ## Referenced In
-- [Session 5 Control Panel](../../../notes/session-5/00-INDEX.md) 📍
+- [Session 5 Control Panel](../../../../notes/session-5/00-INDEX.md) 📍

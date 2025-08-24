@@ -1,5 +1,5 @@
 # Harbin Wester - Ex-Mayor of Phandalin
-**Status**: Desperate schemer | **Class**: [Noble](https://www.dndbeyond.com/monsters/16996-noble) 🕮
+**Status**: Desperate schemer | **Class**: [Noble](https://www.dndbeyond.com/monsters/5195145-noble) 🕮
 
 ## Quick Stats
 | Stat | Value | Notes |
