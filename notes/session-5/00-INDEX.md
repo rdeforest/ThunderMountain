@@ -1,23 +1,30 @@
 # Session 5 Control Panel - "The Morning After"
-🎯 **Focus**: Martha joins as Maza | Mountain aftermath | Multiple hooks converging
 
 ## Immediate Scene
-📍 [The Sleeping Giant](../../lore/locations/phandalin/the-sleeping-giant.md) - Morning gathering
-- [Maza Fieldsalder](../../lore/characters/pc/maza.md) - Martha's paladin blacksmith
-- [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) - Ex-mayor scheming
-- [Cragmaw Envoys](../../lore/characters/npc/cragmaw/envoys.md) - Weapon concerns
+| Category | Item | Details |
+|----------|------|---------|
+| Location | 📍 [The Sleeping Giant](../../lore/locations/phandalin/the-sleeping-giant.md) | Morning gathering |
+| PC | 📍 [Maza Fieldsalder](../../lore/characters/pc/maza.md) | Martha's paladin blacksmith |
+| NPC | [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) | Ex-mayor scheming |
+| NPC | [Cragmaw Envoys](../../lore/characters/npc/cragmaw/envoys.md) | Weapon concerns |
 
 ## Active Timers
-- [Sylara Concerned](../../lore/timers/phandalin/sylara-concerned.md) - Dragon watching
-- [Grandmother's B-Team](../../lore/timers/enroute/bteam-arrive.md) - Intervention squad
-- [Doom Clocks](../../lore/timers/doom-clocks.md) - Who arrives when
+| Timer | Location | Min. Periods | Notes |
+|-------|----------|--------------|-------|
+| [Sylara Concerned](../../lore/timers/phandalin/sylara-concerned.md) | Phandalin | 2 | Dragon watching |
+| 📍 [Grandmother's B-Team](../../lore/timers/enroute/bteam-arrive.md) | En route | 8 | Intervention squad |
+| [Doom Clocks](../../lore/timers/doom-clocks.md) | Various | -- | Master tracker |
 
 ## Key Hooks
-- [The Forge Warning](./hooks/forge-warning.md) - "Don't use the forge"
-- [Vibrating Weapons](./hooks/vibrating-weapons.md) - Cragmaw crisis
-- [Ex-Mayor's Angle](./hooks/harbin-scheme.md) - Control/profit scheme
+| Hook | Type | Description |
+|------|------|-------------|
+| [The Forge Warning](./hooks/forge-warning.md) | Mystery | "Don't use the forge" |
+| [Vibrating Weapons](./hooks/vibrating-weapons.md) | Crisis | Cragmaw weapon problem |
+| [Ex-Mayor's Angle](./hooks/harbin-scheme.md) | Scheme | Control/profit play |
 
 ## Quick References
-- [Stat Blocks](./quick-refs/stat-blocks.md) - DDB links
-- [Facility Status](./quick-refs/facility-status.md) - What's online
-- [Town Reactions](./quick-refs/town-reactions.md) - NPC responses
+| Reference | Purpose |
+|-----------|---------|
+| [Stat Blocks](./quick-refs/stat-blocks.md) | DDB links for combat |
+| [Facility Status](./quick-refs/facility-status.md) | What's online/offline |
+| [Town Reactions](./quick-refs/town-reactions.md) | NPC response matrix |
