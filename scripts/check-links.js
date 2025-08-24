@@ -1,7 +1,5 @@
-#!/usr/bin/env node
-
-const fs = require('fs');
-const path = require('path');
+const fs        = require('fs');
+const path      = require('path');
 
 const REPO_ROOT = '/mnt/nvme0n1p4/git/github/rdeforest/ThunderMountain';
 
@@ -11,6 +9,7 @@ function findMarkdownFiles(dir, files = []) {
     
     for (const entry of entries) {
         const fullPath = path.join(dir, entry.name);
+
         if (entry.isDirectory() && !entry.name.startsWith('.')) {
             findMarkdownFiles(fullPath, files);
         } else if (entry.isFile() && entry.name.endsWith('.md')) {
@@ -29,6 +28,7 @@ function extractRelativeLinks(content, filePath) {
     
     while ((match = linkRegex.exec(content)) !== null) {
         const linkPath = match[2];
+
         // Only check relative links (not http://, https://, etc.)
         if (!linkPath.match(/^[a-z]+:\/\//i) && !linkPath.startsWith('#')) {
             // Remove any anchor fragments
@@ -57,9 +57,9 @@ function checkLink(sourceFile, link) {
         const sourceDirRelative = path.relative(REPO_ROOT, sourceDir);
         
         return {
-            source: path.relative(REPO_ROOT, sourceFile),
-            line: link.line,
-            text: link.text,
+            source:     path.relative(REPO_ROOT, sourceFile),
+            line:       link.line,
+            text:       link.text,
             brokenPath: link.path,
             targetPath: relativePath,
             suggestion: calculateCorrectPath(sourceFile, targetPath)

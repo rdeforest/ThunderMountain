@@ -5,8 +5,9 @@
 |----------|------|---------|
 | Location | [The Sleeping Giant](../../lore/locations/phandalin/the-sleeping-giant.md) 📍 | Morning gathering |
 | PC | [Maza Fieldsalder](../../lore/characters/pc/maza.md) 📍 | Martha's paladin blacksmith |
-| NPC | [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) | Ex-mayor scheming |
-| NPC | [Cragmaw Envoys](../../lore/characters/npc/cragmaw/envoys.md) | Weapon concerns |
+| NPC | [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) 📍 | Ex-mayor scheming |
+| NPC | [Grista Kattelecopp](../../lore/characters/npc/phandalin/grista.md) 📍 | Tavern keeper |
+| NPC | [Cragmaw Envoys](../../lore/characters/npc/cragmaw/envoys.md) 📍 | Weapon concerns |
 
 ## Active Timers
 | Timer | Location | Min. Periods | Notes |
@@ -28,3 +29,8 @@
 | [Stat Blocks](./quick-refs/stat-blocks.md) | DDB links for combat |
 | [Facility Status](./quick-refs/facility-status.md) | What's online/offline |
 | [Town Reactions](./quick-refs/town-reactions.md) | NPC response matrix |
+
+## Key NPCs Not Present
+| NPC | Location | Notes |
+|-----|----------|-------|
+| [Sylara Moonsmith](../../lore/characters/npc/phandalin/sylara-moonsmith.md) 📍 | Her shop | Will "bump into" party later |
