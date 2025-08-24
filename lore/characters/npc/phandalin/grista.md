@@ -24,5 +24,5 @@
 best iron skillet was wiggling like it wanted to dance!"
 
 ## Referenced In
-- [The Sleeping Giant](../../locations/phandalin/the-sleeping-giant.md) 📍
+- [The Sleeping Giant](../../../locations/phandalin/the-sleeping-giant.md) 📍
 - [Session 5 Control Panel](../../../../notes/session-5/00-INDEX.md) 📍
