@@ -15,7 +15,7 @@
 - **General**: Motherly eye-roll energy
 
 ## Knowledge
-- Has copy of [Jack's book](../../../lore/GoblinResearch.md) 📍
+- Has copy of [Jack's book](../../../GoblinResearch.md) 📍
 - Remembers Lost Mine adventurers (1491)
 - Knows everyone's business in town
 
@@ -25,4 +25,4 @@ best iron skillet was wiggling like it wanted to dance!"
 
 ## Referenced In
 - [The Sleeping Giant](../../locations/phandalin/the-sleeping-giant.md) 📍
-- [Session 5 Control Panel](../../../notes/session-5/00-INDEX.md) 📍
+- [Session 5 Control Panel](../../../../notes/session-5/00-INDEX.md) 📍

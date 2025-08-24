@@ -8,10 +8,10 @@ Now Cragmaw weapons continue vibrating/humming. Other tribes affected too.
 ## Current Impact
 | Group | Effect | Response |
 |-------|--------|----------|
-| Cragmaws | Weapons "singing" | Sent [envoys](../../lore/characters/npc/cragmaw/envoys.md) 📍 |
+| Cragmaws | Weapons "singing" | Sent [envoys](../../../lore/characters/npc/cragmaw/envoys.md) 📍 |
 | Warriors | Fear cursed weapons | Some refuse to fight |
 | Town | Tools pointed briefly | Confusion, concern |
-| Smiths | Pliers/tools affected | [Maza](../../lore/characters/pc/maza.md) 📍 investigating |
+| Smiths | Pliers/tools affected | [Maza](../../../lore/characters/pc/maza.md) 📍 investigating |
 
 ## Theories
 - Residual magical resonance from facility

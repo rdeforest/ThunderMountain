@@ -1,5 +1,5 @@
 # Ex-Mayor's Scheme
-**Type**: Political Intrigue | **Antagonist**: [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) 📍
+**Type**: Political Intrigue | **Antagonist**: [Harbin Wester](../../../lore/characters/npc/phandalin/harbin-wester.md) 📍
 
 ## The Scheme
 Harbin wants to claim legal authority over Thunder Mountain as "rightful mayor"

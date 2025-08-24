@@ -1,7 +1,8 @@
 const fs        = require('fs');
 const path      = require('path');
 
-const REPO_ROOT = '/mnt/nvme0n1p4/git/github/rdeforest/ThunderMountain';
+const REPO_ROOT = path.dirname(__dirname);
+// '/mnt/nvme0n1p4/git/github/rdeforest/ThunderMountain';
 
 // Recursively find all markdown files
 function findMarkdownFiles(dir, files = []) {

@@ -28,4 +28,4 @@
 - Slightly suspicious of magic she doesn't understand
 
 ## Referenced In
-- [Session 5 Opening](../../notes/session-5/00-INDEX.md) 📍
+- [Session 5 Opening](../../../notes/session-5/00-INDEX.md) 📍

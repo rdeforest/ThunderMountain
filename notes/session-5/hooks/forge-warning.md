@@ -20,7 +20,7 @@
 
 ## Investigation Options
 - Research forge legends in town
-- Ask [Maza](../../lore/characters/pc/maza.md) 📍 about smithing lore
+- Ask [Maza](../../../lore/characters/pc/maza.md) 📍 about smithing lore
 - Send message back to grandmother (risky)
 - Examine forge without using it first
 

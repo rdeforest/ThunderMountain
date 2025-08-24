@@ -32,4 +32,4 @@ some time ago, who went to the mountains and didn't come back."
 
 ## Referenced In
 - [Cragmaw Envoys](./envoys.md) 📍
-- [Session 1 Transcript](../../../trancripts/ses-01.txt) 📍
+- [Session 1 Transcript](../../../../trancripts/ses-01.txt) 📍
