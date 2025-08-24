@@ -3,8 +3,8 @@
 ## Immediate Scene
 | Category | Item | Details |
 |----------|------|---------|
-| Location | 📍 [The Sleeping Giant](../../lore/locations/phandalin/the-sleeping-giant.md) | Morning gathering |
-| PC | 📍 [Maza Fieldsalder](../../lore/characters/pc/maza.md) | Martha's paladin blacksmith |
+| Location | [The Sleeping Giant](../../lore/locations/phandalin/the-sleeping-giant.md) 📍 | Morning gathering |
+| PC | [Maza Fieldsalder](../../lore/characters/pc/maza.md) 📍 | Martha's paladin blacksmith |
 | NPC | [Harbin Wester](../../lore/characters/npc/phandalin/harbin-wester.md) | Ex-mayor scheming |
 | NPC | [Cragmaw Envoys](../../lore/characters/npc/cragmaw/envoys.md) | Weapon concerns |
 
@@ -12,7 +12,7 @@
 | Timer | Location | Min. Periods | Notes |
 |-------|----------|--------------|-------|
 | [Sylara Concerned](../../lore/timers/phandalin/sylara-concerned.md) | Phandalin | 2 | Dragon watching |
-| 📍 [Grandmother's B-Team](../../lore/timers/enroute/bteam-arrive.md) | En route | 8 | Intervention squad |
+| [Grandmother's B-Team](../../lore/timers/enroute/bteam-arrive.md) 📍 | En route | 8 | Intervention squad |
 | [Doom Clocks](../../lore/timers/doom-clocks.md) | Various | -- | Master tracker |
 
 ## Key Hooks

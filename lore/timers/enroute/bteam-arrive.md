@@ -21,4 +21,4 @@
 - May conflict with local authorities
 
 ## Referenced In
-- [Session 5 Control Panel](../../notes/session-5/00-INDEX.md)
+- [Session 5 Control Panel](../../../notes/session-5/00-INDEX.md) 📍

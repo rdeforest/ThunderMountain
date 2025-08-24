@@ -4,9 +4,9 @@
 ## What Maza Knows
 | Topic | Details | Source |
 |-------|---------|--------|
-| Wave Echo Cave | Legendary forge of magical items | [LMoP Ch.4](https://www.dndbeyond.com/sources/lmop/wave-echo-cave) |
+| Wave Echo Cave | Legendary forge of magical items | [LMoP Ch.4](https://www.dndbeyond.com/sources/lmop/wave-echo-cave) 🕮 |
 | Recent Troubles | Redbrands terrorized town (1491 DR) | Local experience |
-| The Visitors | Jack & Seraphina wrote [goblin book](../../GoblinResearch.md) | Hasn't read it |
+| The Visitors | Jack & Seraphina wrote [goblin book](../../GoblinResearch.md) 📍 | Hasn't read it |
 | Yesterday | All metal tried to fly toward mountain | Personal experience |
 | Smol Bean | Saved her from bandits last year | Shared history |
 
@@ -27,4 +27,4 @@
 - Slightly suspicious of magic she doesn't understand
 
 ## Referenced In
-- [Session 5 Opening](../../notes/session-5/00-INDEX.md)
+- [Session 5 Opening](../../notes/session-5/00-INDEX.md) 📍

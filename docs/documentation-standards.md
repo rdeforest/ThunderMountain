@@ -12,6 +12,7 @@ ThunderMountain/
 │   └── timers/     # Countdown events by status
 ├── notes/          # Session-specific materials
 │   └── session-N/  # Per-session directories
+├── scripts/        # Utility scripts
 └── transcripts/    # Actual play recordings
 ```
 
@@ -32,11 +33,18 @@ ThunderMountain/
 - Keep columns aligned for readability
 - Include headers for clarity
 
+### Icons
+- 📍 = Link to existing file in repo
+- 🕮 = Link to D&D Beyond
+- 🌐 = Link to Forgotten Realms wiki
+- 🔍 = Link to external resource (not repo/DDB/FR)
+- **Place icons at END of link text** for alignment
+
 ### Linking
 - Use markdown format: `[text](relative/path.md)`
 - Link to DDB for official content
 - Always include "Referenced In" section
-- Use 📍 icon when linking to existing files
+- Test relative paths with scripts/check-links.js
 
 ### Timer Format
 ```markdown
@@ -61,4 +69,5 @@ ThunderMountain/
 1. Create card in appropriate lore/ or notes/ directory
 2. Update relevant index files
 3. Add "Referenced In" links
-4. Update WORK-STATUS.md tracker
+4. Test with `node scripts/check-links.js`
+5. Update WORK-STATUS.md tracker
