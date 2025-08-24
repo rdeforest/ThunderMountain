@@ -19,9 +19,9 @@
 ## Key Hooks
 | Hook | Type | Description |
 |------|------|-------------|
-| [The Forge Warning](./hooks/forge-warning.md) | Mystery | "Don't use the forge" |
-| [Vibrating Weapons](./hooks/vibrating-weapons.md) | Crisis | Cragmaw weapon problem |
-| [Ex-Mayor's Angle](./hooks/harbin-scheme.md) | Scheme | Control/profit play |
+| [The Forge Warning](./hooks/forge-warning.md) 📍 | Mystery | "Don't use the forge" |
+| [Vibrating Weapons](./hooks/vibrating-weapons.md) 📍 | Crisis | Cragmaw weapon problem |
+| [Ex-Mayor's Angle](./hooks/harbin-scheme.md) 📍 | Scheme | Control/profit play |
 
 ## Quick References
 | Reference | Purpose |
@@ -34,3 +34,4 @@
 | NPC | Location | Notes |
 |-----|----------|-------|
 | [Sylara Moonsmith](../../lore/characters/npc/phandalin/sylara-moonsmith.md) 📍 | Her shop | Will "bump into" party later |
+| [Elder Thuul](../../lore/characters/npc/cragmaw/elder-thuul.md) 📍 | Cragmaw camp | Remembers party fondly |

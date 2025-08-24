@@ -21,10 +21,10 @@ Tribe remembers party's previous friendly visit.
 ## Knowledge They Offer
 - Saw bright lights on mountain last night
 - Other goblin tribes also affected
-- Old shaman says "mountain woke up"
+- [Elder Thuul](./elder-thuul.md) 📍 says "mountain woke up"
 
 ## Opening Line (Yark)
 "Friends who read book! Weapons sing angry song! You fix, yes?"
 
 ## Referenced In
-- [Session 5 Control Panel](../../../../notes/session-5/00-INDEX.md) 📍
+- [Session 5 Control Panel](../../../notes/session-5/00-INDEX.md) 📍
