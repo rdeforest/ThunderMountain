@@ -2,8 +2,8 @@
 [Phandalin Map](https://www.dndbeyond.com/sources/lmop/phandalin)
 
 ## Physical Description
-Rundown taproom at east end of town. Dark, low-ceilinged common room.
-Bar where [Smol Bean](../../characters/pc/smol.md) sits ON (not at) as security.
+- Rundown taproom at east end of town. Dark, low-ceilinged common room.
+- Bar [Smol Bean](../../characters/pc/smol.md) sits ON (not at) as security.
 
 ## Key NPCs
 - **Owner**: [Grista Kattelecopp](../../characters/npc/phandalin/grista.md)
