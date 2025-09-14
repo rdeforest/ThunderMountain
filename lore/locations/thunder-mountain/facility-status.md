@@ -1,26 +1,28 @@
-# Thunder Mountain Facility - Current Status
+# Thunder Mountain Facility - Current Status [W/C/R]
 **Power**: Fully operational | **Security**: Active/Purging | **Control**: Party authorized
 
-## Systems Online
+## Systems Online [C/R]
 - **Crystal Garden**: Primus-3R restored, tending
 - **Forge**: "The Dreamer" personality active
 - **Resonance Chamber**: Mephits fled, modrons patrol
 - **Defenses**: Blue traces, red boundaries visible
 
-## Authorization Status
-- All 4 party members = administrators
-- Required dance protocol completed
-- Green crystal "Dreamer" selected
+## Operating Parameters [C/R]
+- Following Ray's last instructions exactly
+- Priority 1: Security (purge intruders)
+- Priority 2: Complete second anvil
+- NO autonomous decisions (facility not creative)
+
+## Party Status
+- All 4 members = administrators
+- Facility is SAFE for them
+- Can issue new instructions
 
 ## Active Processes
-- Construction project auto-resumed
-- Second forge item in progress (unknown)
-- Facility purging remaining intruders
-- Metal resonance field expanding
-
-## Warning
-Grandmother: "DO NOT FORGE until we speak!"
+- Second forge construction (automatic)
+- Bulette purge (7 days remaining)
+- Metal resonance field (side effect)
 
 ## Referenced In
-- [Forge Warning Hook](../../notes/session-5/hooks/forge-warning.md) 📍
-- [Doom Clocks](../timers/doom-clocks.md) 📍
+- [Forge Warning Hook](../../../notes/session-5/hooks/forge-warning.md) 📍
+- [The Dreamer](./the-dreamer.md) 📍
