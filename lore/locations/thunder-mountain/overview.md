@@ -20,5 +20,5 @@
 - Forge beginning to respond
 
 ## Referenced In
-- [Facility Awakening](../../04-facility-awakening.md) 📍
+- [Facility Awakening](../../archive/04-facility-awakening.md) 📍
 - [Doom Clocks](../../timers/doom-clocks.md) 📍

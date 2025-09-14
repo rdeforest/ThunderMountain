@@ -22,4 +22,4 @@ Will scatter if 5+ fall.
 
 ## Referenced In
 - [Doom Clocks](../../timers/doom-clocks.md) 📍
-- [Quick Stats](../../../notes/session-5/quick-refs/stat-blocks.md) 📍
+- [Quick Stats](../../../../notes/session-5/quick-refs/stat-blocks.md) 📍

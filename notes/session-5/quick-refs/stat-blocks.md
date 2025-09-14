@@ -20,4 +20,4 @@
 - **Thunder Mephit**: [Dust Mephit](https://www.dndbeyond.com/monsters/16929-dust-mephit) 🕮 + thunder damage
 
 ## Referenced In
-- [Session 5 Control Panel](../../00-INDEX.md) 📍
+- [Session 5 Control Panel](../00-INDEX.md) 📍

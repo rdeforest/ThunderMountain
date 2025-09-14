@@ -23,4 +23,4 @@ Interested in power/riches seekers' fate.
 - Players can ask clarifying questions as "students"
 
 ## Referenced In
-- [Jack's Book](../../GoblinResearch.md) 📍
+- [Jack's Book](../lore/GoblinResearch.md) 📍

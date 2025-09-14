@@ -23,5 +23,5 @@
 3. **Internal conflict**: Silla challenges Mosk
 
 ## Referenced In
-- [Quick Stats](../../../notes/session-5/quick-refs/stat-blocks.md) 📍
-- [Session 5 Control Panel](../../../notes/session-5/00-INDEX.md) 📍
+- [Quick Stats](../../../../notes/session-5/quick-refs/stat-blocks.md) 📍
+- [Session 5 Control Panel](../../../../notes/session-5/00-INDEX.md) 📍

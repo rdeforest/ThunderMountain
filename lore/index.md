@@ -5,9 +5,9 @@
 - **[subplot-tracker.md](subplot-tracker.md)** - Active subplots and ongoing processes
 
 ## Session Records
-- **[00-the-beginning.md](00-the-beginning.md)** - Initial campaign setup and character concepts
-- **[01-ecosystem-and-noises.md](01-ecosystem-and-noises.md)** - Session 1: Meeting the Cragmaws
-- **[04-facility-awakening.md](04-facility-awakening.md)** - Session 4: Crystal, forge, and awakening
+- **[00-the-beginning.md](archive/00-the-beginning.md)** - Initial campaign setup and character concepts
+- **[01-ecosystem-and-noises.md](archive/01-ecosystem-and-noises.md)** - Session 1: Meeting the Cragmaws
+- **[04-facility-awakening.md](archive/04-facility-awakening.md)** - Session 4: Crystal, forge, and awakening
 
 ## World Building
 - **[GoblinResearch.md](GoblinResearch.md)** - Jack Brightletter's complete goblin research book
