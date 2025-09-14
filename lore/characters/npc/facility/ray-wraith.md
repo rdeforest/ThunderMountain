@@ -28,4 +28,4 @@ Left during mephit battle ("useless here").
 Stays at facility, won't leave.
 
 ## Referenced In
-- [Facility Status](../../locations/thunder-mountain/facility-status.md) 📍
+- [Facility Status](../../../locations/thunder-mountain/facility-status.md) 📍

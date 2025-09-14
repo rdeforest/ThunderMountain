@@ -27,7 +27,7 @@
 | Reference | Purpose |
 |-----------|---------|
 | [Stat Blocks](./quick-refs/stat-blocks.md) | DDB links for combat |
-| [Facility Status](./quick-refs/facility-status.md) | What's online/offline |
+| [Facility Status](../../lore/locations/thunder-mountain/facility-status.md) | What's online/offline |
 | [Town Reactions](./quick-refs/town-reactions.md) | NPC response matrix |
 
 ## Key NPCs Not Present

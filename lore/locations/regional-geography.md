@@ -22,4 +22,4 @@
 - Weather can double mountain time
 
 ## Referenced In
-- [Thunder Mountain Overview](../thunder-mountain/overview.md) 📍
+- [Thunder Mountain Overview](thunder-mountain/overview.md) 📍

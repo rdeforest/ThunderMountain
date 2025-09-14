@@ -25,5 +25,5 @@
 - Restoration triggered facility awakening
 
 ## Referenced In
-- [Facility Status](../../locations/thunder-mountain/facility-status.md) 📍
-- [The Dreamer](../../locations/thunder-mountain/the-dreamer.md) 📍
+- [Facility Status](../../../locations/thunder-mountain/facility-status.md) 📍
+- [The Dreamer](../../../locations/thunder-mountain/the-dreamer.md) 📍
