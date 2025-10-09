@@ -2,9 +2,9 @@
 **Time**: Midday | **Weather**: Sea breeze, partly cloudy
 
 ## First Impressions
-Stone walls, new but already weathered by salt air.
-Guards in Neverwinter colors check weapons at gate.
-"State your business in Leilon."
+- Lots of temporary looking structures, hundreds of people bustling around.
+- Guards in Neverwinter colors greet visitors
+- "State your business in Leilon."
 
 ## The Town Layout
 - **Main Street**: Wide, paved, runs north-south
