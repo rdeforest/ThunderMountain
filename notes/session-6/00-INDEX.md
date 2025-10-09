@@ -9,7 +9,7 @@
 | **Encounters** | [Dire Wolves](./dire-wolves.md) 📍 / [Road Bandits](./road-bandits.md) 📍 |
 | **Leilon** | [Town Arrival](./leilon-arrival.md) 📍 |
 | **NPCs** | [Leilon NPCs](../../lore/characters/npc/leilon/) 📍 |
-| **Hooks** | [Reconstruction Work](./hooks/reconstruction.md) 📍 |
+| **Hooks** | [(directory)](./hooks) 📍 |
 
 ## Session Flow
 1. **Departure** - Phandalin morning, Maza sees them off
