@@ -1,0 +1,300 @@
+---
+# Player Knowledge Tracker - Thunder Mountain
+# What each PC knows, has witnessed, and learned
+# Updated after each session to maintain consistency
+
+campaign_date: "1492 DR, Day 6-7"
+session: 6
+
+party_members:
+  smol_bean:
+    player: Thunder
+    class_level: "High Elf Sorcerer 4"
+
+    background_knowledge:
+      - Noble birth, rejected that life for military service
+      - Served in militia (as "halfling" - height sensitive)
+      - Left military angry, works for Grista now
+      - Sits ON the bar at The Sleeping Giant as security
+      - Speaks: Common, Elvish, Dwarfish, Gnomish
+
+    npcs_met:
+      friendly:
+        - Grista Kattelecopp: "Boss/mother figure, protective"
+        - Elder Thuul: "Cragmaw shaman, impressed by subtle magic"
+        - Cragmaw tribe: "Friendly after diplomatic success"
+        - Ray (wraith): "Facility engineer, freed from crystal prison"
+        - Primus-3R: "Repaired modron, loyal"
+        - Maza Fieldsalder: "Saved my life from bandits last year"
+        - Owlbear mama: "Healed her, now friendly"
+
+      neutral:
+        - Harbin Wester: "Ex-mayor, schemer, distrust"
+        - Sylara Moonsmith: "Weaponsmith, concerned about facility"
+
+      departed:
+        - Seraphina: "Academic, traveled together Sessions 1-4"
+        - Thunek: "Goblin scholar guide, departed after Session 4"
+
+    locations_visited:
+      - Phandalin: "Home base, The Sleeping Giant"
+      - Cragmaw camp: "Half-day trek from Phandalin, friendly"
+      - Thunder Mountain exterior: "Climbed to facility entrance"
+      - Thunder Mountain facility: "Explored extensively, activated"
+      - Grasslands: "En route to locations"
+
+    key_events_witnessed:
+      - "Facility activation (Day 4)"
+      - "All metal in Phandalin resonated (Day 5)"
+      - "Cragmaw weapons vibrating, worse when grouped"
+      - "Grandmother's warning arrived too late"
+      - "Healed owlbear mama instead of fighting"
+      - "Made friends with facility inhabitants"
+      - "Defeated Thunder Mephits (facility guardians)"
+      - "Restored 5/6 power generators"
+
+    secrets_known:
+      player_secrets:
+        - "Grandmother scries weekly (safety net)"
+        - "Noble family may send rescue party"
+
+      world_secrets:
+        - "Thunder Mountain = Wave Echo Cave = ancient dwarven/gnomish facility"
+        - "Facility can craft magical items (legendary forge)"
+        - "Ray was trapped in crystal, now controls facility"
+        - "Automatons follow administrator commands (us!)"
+        - "Facility activation visible for miles"
+        - "Metal resonance is regional effect"
+
+    skills_demonstrated:
+      - Fire magic (subtle and impressive)
+      - Dwarfish/Gnomish reading (facility maps)
+      - Military tactical thinking
+      - Magical problem-solving
+      - Administrator privileges (facility access)
+
+    personal_goals:
+      - "Make own way separate from noble family"
+      - "Prove competence as security/adventurer"
+      - "Figure out what to do with legendary facility"
+
+  songbird:
+    player: Kyle
+    class_level: "Human Bard 4"
+
+    background_knowledge:
+      - Noble background (secretly switched at birth)
+      - Only he knows his true origins
+      - Maintains noble connections via letters
+      - Seeking legendary trumpet in Wave Echo Cave
+      - Has read Jack's goblin book TWICE
+      - Speaks: Common, Goblin
+
+    npcs_met:
+      friendly:
+        - Elder Thuul: "Provided trumpet intel, appreciated goblin-language ballad"
+        - Cragmaw tribe: "Impressed by speaking Goblin, composing in Goblin"
+        - Ray (wraith): "Facility engineer, collaborative"
+        - Primus-3R: "Repaired modron"
+        - Maza: "New party member, blacksmith"
+        - Owlbear mama: "Diplomatic resolution"
+
+      neutral:
+        - Grista: "Smol's boss, knows how to motivate him (magic horn)"
+        - Harbin Wester: "Ex-mayor"
+
+      departed:
+        - Seraphina: "Employer for original quest"
+        - Thunek: "Fellow scholar, Goblin speaker"
+
+    locations_visited:
+      - Phandalin: "Came seeking trumpet rumors"
+      - The Sleeping Giant: "Met party"
+      - Cragmaw camp: "Diplomatic success"
+      - Thunder Mountain facility: "Extensive exploration"
+      - Grasslands: "Encountered boars, wolves, giant vulture"
+
+    key_events_witnessed:
+      - "Found mundane trumpet in facility barracks"
+      - "Legendary trumpet rumor still unconfirmed"
+      - "Facility activation Day 4"
+      - "All metal resonated Day 5"
+      - "Creative problem-solving (illusions, prestidigitation)"
+      - "Diplomatic victories over combat"
+
+    secrets_known:
+      player_secrets:
+        - "True origins (switched at birth) - SECRET"
+        - "Noble family expects regular letters"
+        - "Letters overdue, family may intervene"
+
+      world_secrets:
+        - "Wave Echo Cave = Thunder Mountain facility"
+        - "Jack Brightletter's book is accurate (goblins are sophisticated)"
+        - "Facility can craft magical items"
+        - "Legendary forge exists and functions"
+        - "Regional metal resonance from activation"
+        - "Ray controls facility defenses"
+
+    skills_demonstrated:
+      - Goblin fluency (speaking and composing)
+      - Creative magic use (illusions, prestidigitation)
+      - Musical performance (impromptu ballads)
+      - Diplomatic approach over violence
+      - Jack's book knowledge (goblin culture)
+
+    personal_goals:
+      - "Find legendary trumpet (ongoing)"
+      - "Maintain noble persona (secret origins)"
+      - "Keep up correspondence with family"
+      - "Honor goblin culture and language"
+
+  maza_fieldsalder:
+    player: Martha
+    class_level: "Paladin 4"
+
+    background_knowledge:
+      - Folk Hero background
+      - Blacksmith by trade
+      - Lives/works in Phandalin
+      - Saved Smol Bean from bandits last year
+      - Knows Wave Echo Cave legends
+
+    npcs_met:
+      friendly:
+        - Smol Bean: "Saved her from bandits, genuine care"
+        - Songbird: "Met through Smol Bean"
+        - Town residents: "Folk hero status"
+
+      aware_of:
+        - Grista: "Smol's boss"
+        - Cragmaws: "Weapons resonating problem"
+        - Jack & Seraphina: "Wrote goblin book (hasn't read it)"
+
+    locations_visited:
+      - Phandalin: "Home"
+      - The Sleeping Giant: "Regular patron"
+      - Journey to Leilon: "In progress"
+
+    key_events_witnessed:
+      - "Metal resonance event (Day 5) - PERSONALLY EXPERIENCED"
+      - "Pliers pointed at Thunder Mountain"
+      - "Walls in smithy swayed"
+      - "Smol Bean returned from mountain"
+
+    secrets_known:
+      world_knowledge:
+        - "Wave Echo Cave = legendary forge for magical items"
+        - "Recent troubles: Redbrands terrorized town (1491 DR)"
+        - "Something happened at Thunder Mountain (Day 4-5)"
+        - "Metal event was unprecedented"
+        - "Jack & Seraphina researched goblins"
+
+      does_not_know:
+        - Facility details (hasn't been there)
+        - Administrator privileges
+        - Full scope of activation
+        - Ray, Primus-3R, or other facility NPCs
+        - Party's complete adventure
+
+    skills_demonstrated:
+      - Blacksmithing (professional)
+      - Combat (saved Smol from bandits)
+      - Protective instinct
+      - Folk hero reputation
+
+    personal_goals:
+      - "Test legendary forge - can it craft +1 items from raw materials?"
+      - "Protect Smol Bean - feels indebted"
+      - "Understand metal resonance event - professional curiosity"
+
+shared_knowledge:
+  all_pcs_know:
+    - "Thunder Mountain activated Day 4 (visible blue glow)"
+    - "Metal resonance event Day 5 (regional effect)"
+    - "Cragmaw weapons vibrating, worse when grouped"
+    - "Something significant happened at the mountain"
+    - "Traveling to Leilon to investigate regional effects"
+
+  smol_and_songbird_know:
+    - "Complete facility layout and status"
+    - "Administrator privileges granted"
+    - "Ray and Primus-3R relationship"
+    - "5/6 generators online"
+    - "Second forge under construction"
+    - "Owlbear mama is friendly"
+    - "Bulette threat neutralized"
+    - "Thunder Mephits defeated"
+    - "Cragmaw tribe details and relationships"
+    - "Facility can be controlled remotely (theoretically)"
+
+  only_maza_knows:
+    - "Blacksmith perspective on metal resonance"
+    - "Physical sensation of event (pliers pointing, walls swaying)"
+    - "Extent of town concern/gossip"
+
+information_asymmetry:
+  # Track what some PCs know that others don't
+
+  smol_knows_but_maza_doesnt:
+    - "Facility interior and capabilities"
+    - "Ray and facility inhabitants"
+    - "Administrator command structure"
+    - "Power generation specifics"
+    - "Full encounter history"
+
+  songbird_knows_but_maza_doesnt:
+    - "Jack's book contents (read twice vs. hasn't read)"
+    - "Goblin cultural sophistication"
+    - "Facility exploration details"
+    - "Trumpet search context"
+
+  maza_knows_but_party_doesnt:
+    - "Town's reaction in more detail"
+    - "Blacksmith professional perspective"
+    - "Local Phandalin gossip during their absence"
+    - "Redbrand history context"
+
+session_updates:
+  # Add after each session
+
+  session_6_additions:
+    # To be filled after session
+    npcs_met: []
+    locations_visited: []
+    secrets_learned: []
+    events_witnessed: []
+
+  session_7_additions:
+    # Future
+    npcs_met: []
+    locations_visited: []
+    secrets_learned: []
+    events_witnessed: []
+
+dm_notes:
+  # Information players SHOULD know but might have forgotten
+  reminders_to_offer:
+    - "Grandma Bean scries weekly (Smol's safety net)"
+    - "Songbird's letters are overdue (family may worry)"
+    - "Cragmaws are friendly allies (diplomatic success)"
+    - "Facility responds to administrator commands"
+    - "Ray is literal, not creative (important for instructions)"
+
+  # Information players CANNOT know yet
+  gm_only_secrets:
+    - "B-Team formation in progress (Doom Clock 4/6)"
+    - "Noble families coordinating"
+    - "Redbrand ambush planning (Doom Clock 2/6)"
+    - "External interest in facility (Doom Clock 1/6)"
+    - "Owlbear flock migration (Doom Clock 3/6)"
+    - "Harbin's specific scheme details"
+
+  # Things to reveal through play
+  discoverable_secrets:
+    - "Full scope of regional metal resonance"
+    - "Other facilities in the network"
+    - "True purpose of dwarven/gnomish construction"
+    - "What caused original facility shutdown"
+    - "Enhancement Multiplexer location/function"
+    - "Legendary trumpet actual location (if it exists)"
