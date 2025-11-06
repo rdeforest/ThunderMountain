@@ -1,0 +1,47 @@
+One very important rule: no time travel! I refused to multiply my cognitive
+load that much. :)
+
+  The Rift Itself
+
+  1. Rift modification mechanics: What KIND of controls are we talking about?
+
+- Something plausible for ~400 DR. Has tech or magic changed in any meaningful
+  ways in the last 100 years?
+- It should also fit Netherese canon thematically. I'll need a lot of input
+  from you on those aspects.
+- I want it to be as different from the facility as is reasonably possible,
+  except for the use of resonance, which to me is something fundamental to not
+  just the story world, but all worlds ever, because it's as much a
+  mathematical phenomenon as a physical one. A Fourier transform by any other
+  name would work just as well in any world. And would smell as sweet. Hat tip
+  to Shakespear.
+
+I think I want to encourage the players to engage more with the town, so I
+will make it obvious that it requires more than two people to operate. Since
+the room is a cube, 4 (walls) or 5 (walls and floor) would be good numbers.
+The participants do not need special training, they just need to be able to
+follow directions.
+
+It's current destination is like if an AM radio were tuned to a station and
+then drifted off-frequency: it's the same, but distorted and farther away. If
+they figure out how to dial it in, locations in the hells would be potential
+destinations, but I like the idea that it could conceivably be tuned to ANY
+plane, even a copy of Earth circa 2025 CE, though I would want that to be
+extremely difficult to accomplish.
+
+So I need a control system that is sufficiently complex to make it easy to add
+new potential destinations. I also need to come up with some mechanics for the
+tuning once they get past the puzzle part, kinda like the mechanics of the
+Teleport spell where a nat 20 is never bad and a nat 1 is likely to be bad.
+But unlike teleport, people have the option of whether to take their chances
+going through or try again.
+
+Ah, I also want to offer feedback on how well tuned it is. A well tuned rift
+should be transparent, such that the other side is clearly visible and the
+bounds of the rift are clear. There would also be no immediate risk from
+interacting with a well-tuned portal. The rock that sheared in half wouldn't
+have if the portal had been in tune.
+
+Half of the danger of the portal is that when out of tune it leads into
+non-planar destinations, like the spaces between planes and such. The other
+half, of course, is what might come through.

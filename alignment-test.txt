@@ -1,8 +1,37 @@
 Test Method (invisible to players):
 When character touches pedestal, it reads recent memories/intentions:
+
 - Helped others without expectation of reward? ✓
 - Harmed innocents unnecessarily? ✗
 - Follows laws even when inconvenient? (Lawful indicator)
 - Prioritizes freedom over order? (Chaotic indicator)
 - Selfish motivations dominant? (Evil indicator)
 
+
+
+Some names
+- Torvald (strong, worker-friendly)
+- Edric (neutral, adaptable)
+
+
+
+- Torvald Stone
+- Edric   Moss
+- Kathra  Ironfoot
+
+
+
+
+- Brennan (friendly sound)
+- Gareth (solid, trustworthy)
+- Kellan (younger feel)
+
+- Brennan Cole
+- Mardred Deepdelve
+- Eldeth Stonehammer
+
+- Gareth Ward
+- Kellan Pierce
+
+- Brenna Cole
+- Kerri Thorne
