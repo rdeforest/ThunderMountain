@@ -1,0 +1,8 @@
+Test Method (invisible to players):
+When character touches pedestal, it reads recent memories/intentions:
+- Helped others without expectation of reward? ✓
+- Harmed innocents unnecessarily? ✗
+- Follows laws even when inconvenient? (Lawful indicator)
+- Prioritizes freedom over order? (Chaotic indicator)
+- Selfish motivations dominant? (Evil indicator)
+
