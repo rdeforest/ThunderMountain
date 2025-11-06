@@ -10,6 +10,7 @@
 **Description**: The hallway from the portal chamber opens into a wide, gently sloping corridor that curves to follow the spiral. The floor has a 5-degree incline, barely noticeable at first but definitely present. Walls are smooth stone with crystalline veins that no longer glow (unpowered). Netherese script labels doors in a flowing, elegant style.
 
 **Layout**:
+
 - Main spiral corridor (20ft wide)
 - 6 dorm rooms (2-person occupancy each)
 - 1 communal washroom (magical plumbing, nonfunctional)
@@ -144,7 +145,7 @@
 - **MAJOR FIND**: Bronze-tier token lying on ground 10ft from barrier!
   - Token is small crystal disc, engraved with "B-13"
   - Clearly dropped/forgotten during evacuation
-  - Grants access to Levels 7-12
+  - Grants access to Levels 13-15 from levels 7-12
 
 **Dorm Rooms**:
 - Nicer furnishings (still stone, but carved with decorative elements)
